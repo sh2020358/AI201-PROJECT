@@ -1,3 +1,18 @@
+#import Libraries 
+
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
+from scipy import stats 
+import warnings 
+
+#Loading the train and test dataseys and importing in a dataframe 
+train = pd. read_csv('train (1).csv') 
+test = pd.read_csv('test.csv') 
+print('Datasets read successfully..')
+
+
 # Missing Value Handling
 
 def HandlingMissingValue(df):

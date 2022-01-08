@@ -1,0 +1,5 @@
+﻿  StoreMgsSys.cpp
+C:\Users\jacsh\OneDrive\Desktop\StoreMgmt\StoreMgmt\StoreMgmt\StoreMgsSys.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacsh\OneDrive\Desktop\StoreMgmt\StoreMgmt\StoreMgmt\StoreMgsSys.cpp(264,21): warning C4018: '<': signed/unsigned mismatch
+  StoreMgmt.vcxproj -> C:\Users\jacsh\OneDrive\Desktop\StoreMgmt\StoreMgmt\Debug\StoreMgmt.exe
+          1 file(s) copied.

@@ -1,0 +1,18 @@
+Electronics:TVs
+Electronics:Heaters:Panasonic:2200W
+Electronics:Heaters:Panasonic:1000W
+Electronics:Smartphones:Samsung:S Series: Galaxy Note 10
+Electronics:Smartphones:Samsung:S Series: Galaxy Note 20
+Electronics:Smartphones:Samsung:A Series: A57
+Electronics:Smartphones:Samsung:A Series: A77
+Electronics:Smartphones:Apple:iPhone X
+Electronics:Smartphones:Apple:iPhone 12 Pro Max
+Bakery:Grocery:Bread:White
+Bakery:Grocery:Bread:Bran
+Apparel:Men:Shirts
+Apparel:Men:Shorts
+Apparel:Men:Trousers
+Apparel:Women
+Apparel:Children
+Sports:Footwear:Studs
+Sports:Footwear:Joggers
